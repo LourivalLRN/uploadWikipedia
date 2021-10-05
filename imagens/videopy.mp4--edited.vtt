@@ -1,0 +1,161 @@
+﻿WEBVTT - created by www.amberscript.com
+
+1
+00:00:03.319 --> 00:00:09.129
+Hablemos un poco de Python Python es un lenguaje
+de programación interpretado cuya
+
+2
+00:00:09.229 --> 00:00:14.229
+filosofía hace hincapié en la legibilidad
+de su código. Es muy importante que sepas
+
+3
+00:00:14.329 --> 00:00:18.789
+que Python es un lenguaje de programación
+multi paradigma, ya que soporta
+
+4
+00:00:18.889 --> 00:00:23.770
+programación orientada a objetos,
+programación imperativa y en menor medida,
+
+5
+00:00:23.870 --> 00:00:28.250
+programación funcional. Te contaré un poco
+la historia del creador de Python llamado
+
+6
+00:00:28.520 --> 00:00:33.370
+Guido Van Rossum. Guido se graduó
+en Matemáticas y computación
+
+7
+00:00:33.470 --> 00:00:39.020
+en la Universidad de Ámsterdam en Países
+Bajos, en el año de 1982. Posterior a eso,
+
+8
+00:00:39.169 --> 00:00:43.569
+estuvo trabajando en el centro para las Matemáticas
+y la Informática. Guido
+
+9
+00:00:43.669 --> 00:00:48.760
+se dedicaba a hacer rutinas BCD
+en Unix y más adelante se involucraría
+
+10
+00:00:48.860 --> 00:00:53.350
+con el lenguaje de programación
+llamado Avicii, que era interactivo,
+
+11
+00:00:53.450 --> 00:00:58.130
+estructurado y de alto nivel y estaba
+pensado para ser utilizado en lugar de.
+
+12
+00:00:58.669 --> 00:01:03.159
+Sin embargo, Guido pensaba en crear
+un lenguaje mucho más fácil, intuitivo,
+
+13
+00:01:03.259 --> 00:01:07.930
+potente y además amigable para todos
+los programadores. Con sus propias palabras,
+
+14
+00:01:08.029 --> 00:01:13.959
+nos cuenta los. Hace seis años,
+en diciembre de 1989, estaba buscando
+
+15
+00:01:14.059 --> 00:01:18.610
+un proyecto de programación como hobby
+que me mantuviera ocupado durante las semanas
+
+16
+00:01:18.709 --> 00:01:24.190
+de Islandia. Mi oficina estaba cerrada
+y no tendría más que mi PC. Entonces decidí
+
+17
+00:01:24.290 --> 00:01:28.180
+escribir un intérprete para el nuevo
+lenguaje de scripting que había estado
+
+18
+00:01:28.279 --> 00:01:32.410
+ideando recientemente un descendiente
+de Eivissa. Y qué le gustaría a los hackers
+
+19
+00:01:32.510 --> 00:01:37.540
+de Unix? Encontrándome en un estado
+de ánimo ligeramente irreverente y siendo
+
+20
+00:01:37.639 --> 00:01:43.930
+un gran fan de Monty Python Circus?
+Le puse el nombre de Python. Python es
+
+21
+00:01:44.029 --> 00:01:47.800
+tan poderoso, pues más que por usar
+a los programadores a adoptar un estilo
+
+22
+00:01:47.900 --> 00:01:52.900
+particular de programación, permite
+varios estilos y además otros paradigmas están
+
+23
+00:01:53.000 --> 00:01:57.340
+soportados mediante el uso de extensiones.
+Vamos a ver un ejemplo, como por ejemplo
+
+24
+00:01:57.440 --> 00:02:00.760
+te mostraré unos aspectos muy sencillos
+en la declaración de una función
+
+25
+00:02:00.860 --> 00:02:04.300
+en la declaración de una función.
+Hay que considerar los dos puntos
+
+26
+00:02:04.400 --> 00:02:08.919
+y además las sangrías para la tentación.
+Y no nos olvidemos de los paréntesis
+
+27
+00:02:09.020 --> 00:02:13.299
+a la hora de usar el PRI, ya que son
+muy importantes en la versión 3 de Python.
+
+28
+00:02:13.399 --> 00:02:17.559
+Y si quieres empezar a profundizar con el lenguaje,
+hay muchos sitios de los que te
+
+29
+00:02:17.660 --> 00:02:22.239
+puedes apoyar, como por ejemplo doble
+U3 Schools y que inclusive corre código via
+
+30
+00:02:22.339 --> 00:02:26.349
+web y nos proporciona manuales de iniciación.
+Y como siempre, espero que te
+
+31
+00:02:26.449 --> 00:02:31.419
+haya gustado el video y recuerda
+compartir suscribirte Arvelo TK Pulgares arriba
+
+32
+00:02:31.520 --> 00:02:33.979
+y comentarme qué te parece feito.
+
